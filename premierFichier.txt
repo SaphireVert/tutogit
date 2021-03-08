@@ -1,3 +1,7 @@
 Un petit changement
 
+<<<<<<< HEAD
 test branche master
+=======
+testbranche1
+>>>>>>> premiereBranche
